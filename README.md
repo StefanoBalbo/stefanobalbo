@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎯 Aspiring economist with experience in data science and research. <br>📚 Currently, contributing to business intelligence analytics & data innovations, and participating in research projects.</p>
+<p align="left">📚 Aspiring economist with experience in data science and research. <br>🎯 Currently, contributing to business intelligence analytics & data innovations, and participating in research projects.</p>
 
 ###
 

@@ -31,7 +31,7 @@
   <img width="12" />
   <img src="https://www.qgis.org/styleguide/visual/main_logo.png" height="40" alt="qgis logo"  />
   <img width="12" />
-  <img src="https://images.seeklogo.com/logo-png/50/1/superset-icon-logo-png_seeklogo-500354.png" height="40" alt="superset logo"  />
+  <img src="https://superset.apache.org//img/superset-logo-horiz-dark.svg" height="40" alt="superset logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />

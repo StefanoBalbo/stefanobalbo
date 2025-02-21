@@ -2,8 +2,6 @@
 
 ###
 
-<p align="left">My name is Stéfano and I'm from Córdoba, Argentina</p>
-
 ###
 
 <h2 align="left">About me</h2>

@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Aspiring economist with experience in data science, applied econometrics and research. <br>🎯 Currently, contributing to business intelligence analytics & data innovations, and participating in research projects.</p>
+<p align="left">📚 Aspiring economist at the [National University of Córdoba, Faculty of Economic Sciences](https://www.unc.edu.ar/acad%C3%A9micas/facultades-de-la-unc) with experience in data science, applied econometrics and research. <br>🎯 Currently, contributing to business intelligence analytics & data innovations, and participating in research projects.</p>
 
 ###
 

@@ -29,9 +29,9 @@
   <img width="12" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" height="40" alt="pbi logo"  />
   <img width="12" />
-  <img src="https://qgis.github.io/qgis-uni-navigation/logo.svg" height="40" alt="qgis logo"  />
+  <img src="https://qgis.github.io/qgis-uni-navigation/logo.svg" height="35" alt="qgis logo"  />
   <img width="12" />
-  <img src="https://superset.apache.org//img/superset-logo-horiz-dark.svg" height="40" alt="superset logo"  />
+  <img src="https://superset.apache.org//img/superset-logo-horiz-dark.svg" height="35" alt="superset logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />

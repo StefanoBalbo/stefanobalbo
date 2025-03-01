@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">📚 Aspiring economist with experience in data science, applied econometrics and research. <br>🎯 Currently, contributing to business intelligence analytics & data innovations, and participating in research projects.</p>
+<p align="left">📚 Aspiring economist with experience in data science, applied econometrics and machine learning. <br>🎯 Currently, contributing to BI analytics and research projects.</p>
 
 ###
 

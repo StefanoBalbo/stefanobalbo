@@ -39,7 +39,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
+  
 ###
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanobalbo&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

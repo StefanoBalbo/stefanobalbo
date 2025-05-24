@@ -27,7 +27,7 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanobalbo&show_icons=true&theme=calm_pink) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanobalbo&&layout=compact&theme=calm_pink)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanobalbo&show_icons=true&theme=calm_pink) ![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanobalbo&&layout=compact&theme=calm_pink)
 
 
 ## 🔗 Links

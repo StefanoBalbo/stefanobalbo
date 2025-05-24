@@ -36,7 +36,7 @@
 <h2 align="left">📂 Projects</h2>
 
 <ul align="left">
-  <li><strong><a href="https://agenciaquiroga.com/#qperform">Leading Econometric Models for optimizing Media Mix Investment in the Masive Consumption Markets. (Ongoing) Project</a></strong> | Agencia Quiroga. </li>
+  <li><strong><a href="https://agenciaquiroga.com/#qperform">Leading Econometrics for optimizing Media Mix Investment in the Masive Consumption Markets. (Ongoing) Project</a></strong> | Agencia Quiroga. </li>
   <li><strong><a href="https://github.com/StefanoBalbo/Geocoding">Research (Ongoing) Project</a></strong> | UNC (National University of Córdoba), Data Science Program. </li>
   <li><strong><a href="https://transparencia.unc.edu.ar/unc-en-cifras">Collaboration in the development of the Transparency Portal</a></strong> | UNC (National University of Córdoba), Data Science Program.</li>
   <li><strong><a href="https://github.com/StefanoBalbo/VAS_Optimization">DHS Survey Spatial & Cost Analysis. Research & Modeling</a></strong> | Reforma Consulting, for UNICEF & Genesis Analytics.</li>

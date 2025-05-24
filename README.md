@@ -20,7 +20,7 @@
   <img width="12" />
   <img src="https://superset.apache.org//img/superset-logo-horiz-dark.svg" height="35" alt="superset logo"  />
   <img width="12" />
-<div align="left">
+<div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanobalbo&show_icons=true&theme=calm_pink) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanobalbo&&layout=compact&theme=calm_pink)
 

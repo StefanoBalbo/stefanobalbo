@@ -16,7 +16,8 @@
 
 ###
 
-  <img width="12" /> 
+  <img width="5" /> 
+  
   <img align="left" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" height="35" alt="r logo"  />
 
   <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="35" alt="py logo"  />
@@ -30,7 +31,7 @@
   <img align="left" src="https://qgis.github.io/qgis-uni-navigation/logo.svg" height="30" alt="qgis logo"  />
 
   <img align="left" src="https://superset.apache.org//img/superset-logo-horiz-dark.svg" height="35" alt="superset logo"  />
-  <img width="12" />
+  <img width="5" />
 
 
 

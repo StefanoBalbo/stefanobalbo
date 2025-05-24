@@ -25,3 +25,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanobalbo&show_icons=true&theme=calm_pink) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanobalbo&&layout=compact&theme=calm_pink)
 
 
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefano-balbo13/)

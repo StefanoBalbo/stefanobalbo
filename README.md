@@ -13,9 +13,7 @@
 ###
 
 <h2 align="left">🛠 Data Stack</h2>
-
 ###
-
   <img width="5" /> 
   
   <img align="left" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" height="35" alt="r logo"  />

@@ -38,7 +38,7 @@
 <ul align="left">
   <li><strong><a href="https://github.com/StefanoBalbo/Geocoding">Research (Ongoing) Project. </a></strong> · UNC (National University of Córdoba), Data Science Program. </li>
   <li><strong><a href="https://transparencia.unc.edu.ar/unc-en-cifras">Collaboration in the development of the Transparency Portal.</a></strong> · UNC (National University of Córdoba), Data Science Program.</li>
-  <li><strong><a href="https://github.com/StefanoBalbo/VAS_Optimization">DHS Survey Spatial Analysis & Cost Analysis for Optimizing Vitamin A Supplementation (VAS) Coverage in African Countries.</a></strong> · Reforma Consulting, for UNICEF & Genesis Analytics.</li>
+  <li><strong><a href="https://github.com/StefanoBalbo/VAS_Optimization">DHS Survey Spatial & Cost Analysis for Optimizing Vitamin A Supplementation (VAS) Coverage in African Countries.</a></strong> · Reforma Consulting, for UNICEF & Genesis Analytics.</li>
   <li><strong><a href="#">Public Health Expenditure Review & Consultancy</a></strong> · Reforma Consulting, for the Government of Jamaica and The World Bank.</li>
   <li><strong><a href="https://obs-idecor-mapas-docs.obs.sa-argentina-1.myhuaweicloud.com/m468/Informe%20_VTU_2023.pdf">IDECOR – Urban Land Research</a></strong> · Applied econometrics and machine learning to collab in the development of the Urban Land Value Map of Córdoba Province.</li>
   <li><strong><a href="https://obs-idecor-mapas-docs.obs.sa-argentina-1.myhuaweicloud.com/m469/Informe_VTR_2023.pdf">IDECOR – Rural Land Research</a></strong> · Applied econometrics and machine learning to collab in the development of the Rural Land Value Map of Córdoba Province.</li>

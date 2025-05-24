@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left"> Aspiring economist with experience in data science, GIS, econometrics and machine learning, applied in topics such as public policy, education, business and media. Currently, contributing to BI analytics, modeling, and research projects.</p>
+<p align="left"> Aspiring economist with experience in data science, GIS, econometrics and machine learning, applied to public policy, education, business and media. Currently engaged in BI analytics, predictive modeling, and research projects.</p>
 
 ###
 

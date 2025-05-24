@@ -36,15 +36,15 @@
 <h2 align="left">📂 Projects</h2>
 
 <ul align="left">
-  <li><strong><a href="https://agenciaquiroga.com/#qperform">Leading Econometrics for optimizing Media Mix Investment in the Masive Consumption Markets. (Ongoing) Project</a></strong> | Agencia Quiroga. </li>
+  <li><strong><a href="https://agenciaquiroga.com/#qperform">Econometrics for optimizing Media Mix Investment in the Masive Consumption Markets. (Ongoing) Project</a></strong> | Agencia Quiroga. </li>
   <li><strong><a href="https://github.com/StefanoBalbo/Geocoding">Undergraduate students research. (Ongoing) Project</a></strong> | UNC (National University of Córdoba), Data Science Program. </li>
   <li><strong><a href="https://transparencia.unc.edu.ar/unc-en-cifras">Collaboration in the development of the Transparency Portal</a></strong> | UNC (National University of Córdoba), Data Science Program.</li>
-  <li><strong><a href="https://github.com/StefanoBalbo/VAS_Optimization">DHS Survey Spatial & Cost Analysis. Research & Modeling</a></strong> | Reforma Consulting, for UNICEF & Genesis Analytics.</li>
+  <li><strong><a href="https://github.com/StefanoBalbo/VAS_Optimization">DHS Survey Spatial & Cost Analysis. Research & Econometric Modeling</a></strong> | Reforma Consulting, for UNICEF & Genesis Analytics.</li>
   <li><strong><a href="#">Public Health Expenditure Review & Consultancy </a></strong> | Reforma Consulting, for the Government of Jamaica and The World Bank.</li>
-  <li><strong><a href="https://obs-idecor-mapas-docs.obs.sa-argentina-1.myhuaweicloud.com/m468/Informe%20_VTU_2023.pdf">Urban Land Modeling & Research</a></strong> | IDECOR – Urban Land Value Map of Córdoba Province.</li>
-  <li><strong><a href="https://obs-idecor-mapas-docs.obs.sa-argentina-1.myhuaweicloud.com/m469/Informe_VTR_2023.pdf">Rural Land Modeling & Research</a></strong> | IDECOR – Rural Land Value Map of Córdoba Province.</li>
-  <li><strong><a href="https://obs-idecor-mapas-docs.obs.myhuaweicloud.com/m419/Alquileres_Urbanos_Informe_Final_22_23.pdf">Urban Rental Modeling & Research</a></strong> | IDECOR – Urban Rental Value Map of Córdoba Province.</li>
-  <li><strong><a href="https://www.idecor.gob.ar/wp-content/uploads/2023/05/Arrendamientos-Agricolas-Informe-22-23.pdf">Rural Lease Modeling & Research</a></strong> | IDECOR – Rural Lease Value Map of Córdoba Province.</li>
+  <li><strong><a href="https://obs-idecor-mapas-docs.obs.sa-argentina-1.myhuaweicloud.com/m468/Informe%20_VTU_2023.pdf">Urban Land E+ML Modeling</a></strong> | IDECOR – Urban Land Value Map of Córdoba Province.</li>
+  <li><strong><a href="https://obs-idecor-mapas-docs.obs.sa-argentina-1.myhuaweicloud.com/m469/Informe_VTR_2023.pdf">Rural Land E+ML Modeling</a></strong> | IDECOR – Rural Land Value Map of Córdoba Province.</li>
+  <li><strong><a href="https://obs-idecor-mapas-docs.obs.myhuaweicloud.com/m419/Alquileres_Urbanos_Informe_Final_22_23.pdf">Urban Rental E+ML Modeling</a></strong> | IDECOR – Urban Rental Value Map of Córdoba Province.</li>
+  <li><strong><a href="https://www.idecor.gob.ar/wp-content/uploads/2023/05/Arrendamientos-Agricolas-Informe-22-23.pdf">Rural Lease E+ML Modeling</a></strong> | IDECOR – Rural Lease Value Map of Córdoba Province.</li>
 </ul>
 
 ---

@@ -40,9 +40,7 @@
   
 ###
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanobalbo&theme=calm_pink&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanobalbo&show_icons=true&theme=calm_pink) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanobalbo&hide_progress=true&theme=calm_pink)
 
----
-[![](https://visitcount.itsvg.in/api?id=stefanobalbo&icon=0&color=0)](https://visitcount.itsvg.in)
 
 

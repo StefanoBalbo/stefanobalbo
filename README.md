@@ -23,24 +23,7 @@
   <img width="12" />
 </div>
 
-###
-
-<h2 align="left">Contact</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/stefano-balbo13/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="stefanobalbo13@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-  
-###
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanobalbo&show_icons=true&theme=calm_pink) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanobalbo&hide_progress=true&theme=calm_pink)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanobalbo&show_icons=true&theme=calm_pink) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanobalbo&hide_progress=true&theme=calm_pink)
 
 
 

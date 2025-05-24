@@ -36,14 +36,14 @@
 <h2 align="left">📂 Projects</h2>
 
 <ul align="left">
-  <li><strong><a href="#">UNC (National University of Córdoba) – Research (Ongoing) Project </a></strong> · Data Science Program. </li>
-  <li><strong><a href="#">UNC (National University of Córdoba) – Collaboration in the development of the Transparency Portal</a></strong> · Data Science Program.</li>
-  <li><strong><a href="#">Reforma Consulting – DHS Survey Spatial Analysis & Cost Optimization</a></strong> · Assessed Vitamin A Supplementation (VAS) coverage in African countries, for UNICEF & Genesis Analytics.</li>
+  <li><strong><a href="https://github.com/StefanoBalbo/Geocoding">UNC (National University of Córdoba) – Research (Ongoing) Project </a></strong> · Data Science Program. </li>
+  <li><strong><a href="https://transparencia.unc.edu.ar/unc-en-cifras">UNC (National University of Córdoba) – Collaboration in the development of the Transparency Portal</a></strong> · Data Science Program.</li>
+  <li><strong><a href="https://github.com/StefanoBalbo/VAS_Optimization">Reforma Consulting – DHS Survey Spatial Analysis & Cost Optimization</a></strong> · Assessed Vitamin A Supplementation (VAS) coverage in African countries, for UNICEF & Genesis Analytics.</li>
   <li><strong><a href="#">Reforma Consulting – Public Health Expenditure Review & Consultancy</a></strong> · Analyzed macroeconomic and budget data for the Government of Jamaica and The World Bank.</li>
-  <li><strong><a href="#">IDECOR – Urban Land Market Modeling</a></strong> · Applied econometrics and machine learning to develop the Urban Land Value Map of Córdoba Province.</li>
-  <li><strong><a href="#">IDECOR – Rural Land Market Modeling</a></strong> · Created the Rural Land Value Map using econometric and ML models.</li>
-  <li><strong><a href="#">IDECOR – Urban Rental Market Modeling</a></strong> · Built the Urban Rent Value Map using geospatial and statistical techniques.</li>
-  <li><strong><a href="#">IDECOR – Rural Lease Market Modeling</a></strong> · Developed the Rural Lease Value Map integrating spatial econometrics and ML tools.</li>
+  <li><strong><a href="https://obs-idecor-mapas-docs.obs.sa-argentina-1.myhuaweicloud.com/m468/Informe%20_VTU_2023.pdf">IDECOR – Urban Land Market Modeling</a></strong> · Applied econometrics and machine learning to develop the Urban Land Value Map of Córdoba Province.</li>
+  <li><strong><a href="https://obs-idecor-mapas-docs.obs.sa-argentina-1.myhuaweicloud.com/m469/Informe_VTR_2023.pdf">IDECOR – Rural Land Market Modeling</a></strong> · Created the Rural Land Value Map using econometric and ML models.</li>
+  <li><strong><a href="https://obs-idecor-mapas-docs.obs.myhuaweicloud.com/m419/Alquileres_Urbanos_Informe_Final_22_23.pdf">IDECOR – Urban Rental Market Modeling</a></strong> · Built the Urban Rent Value Map using geospatial and statistical techniques.</li>
+  <li><strong><a href="https://www.idecor.gob.ar/wp-content/uploads/2023/05/Arrendamientos-Agricolas-Informe-22-23.pdf">IDECOR – Rural Lease Market Modeling</a></strong> · Developed the Rural Lease Value Map integrating spatial econometrics and ML tools.</li>
 </ul>
 
 ---

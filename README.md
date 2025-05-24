@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" height="35" alt="latex logo" />
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="35" alt="mysql logo" />
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="35" alt="powerbi logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/QGIS_logo_new.svg" height="35" alt="qgis logo" />
+  <img src="https://qgis.github.io/qgis-uni-navigation/logo.svg" height="30" alt="qgis logo"  />
   <img src="https://superset.apache.org/img/superset-logo-horiz-dark.svg" height="35" alt="superset logo" />
 </p>
 

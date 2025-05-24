@@ -33,6 +33,21 @@
 
 ---
 
+<h2 align="left">📂 Projects</h2>
+
+<ul align="left">
+  <li><strong><a href="#">UNC (National University of Córdoba) – Research (Ongoing) Project </a></strong> · Data Science Program. </li>
+  <li><strong><a href="#">UNC (National University of Córdoba) – Collaboration in the development of the Transparency Portal</a></strong> · Data Science Program.</li>
+  <li><strong><a href="#">Reforma Consulting – DHS Survey Spatial Analysis & Cost Optimization</a></strong> · Assessed Vitamin A Supplementation (VAS) coverage in African countries, for UNICEF & Genesis Analytics.</li>
+  <li><strong><a href="#">Reforma Consulting – Public Health Expenditure Review & Consultancy</a></strong> · Analyzed macroeconomic and budget data for the Government of Jamaica and The World Bank.</li>
+  <li><strong><a href="#">IDECOR – Urban Land Market Modeling</a></strong> · Applied econometrics and machine learning to develop the Urban Land Value Map of Córdoba Province.</li>
+  <li><strong><a href="#">IDECOR – Rural Land Market Modeling</a></strong> · Created the Rural Land Value Map using econometric and ML models.</li>
+  <li><strong><a href="#">IDECOR – Urban Rental Market Modeling</a></strong> · Built the Urban Rent Value Map using geospatial and statistical techniques.</li>
+  <li><strong><a href="#">IDECOR – Rural Lease Market Modeling</a></strong> · Developed the Rural Lease Value Map integrating spatial econometrics and ML tools.</li>
+</ul>
+
+---
+
 <h2 align="left">🔗 Links</h2>
 
 <p align="left">

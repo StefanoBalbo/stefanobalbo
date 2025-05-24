@@ -1,6 +1,5 @@
 <h1 align="left">Hey 👋 Welcome to my repository</h1>
 
----
 
 <h2 align="left">🚀 About Me</h2>
 
@@ -21,8 +20,6 @@
   <img src="https://qgis.github.io/qgis-uni-navigation/logo.svg" height="30" alt="qgis logo"  />
   <img src="https://superset.apache.org/img/superset-logo-horiz-dark.svg" height="35" alt="Superset logo" />
 </p>
-
----
 
 <h2 align="left">📊 GitHub Stats</h2>
 

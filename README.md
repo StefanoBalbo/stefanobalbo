@@ -33,8 +33,8 @@
 <h2 align="left">📂 Projects</h2>
 
 <ul align="left">
-  <li><strong><a href="https://agenciaquiroga.com/#qperform">E Modeling for optimizing Media Mix Investment. (Ongoing) Project</a></strong> | Agencia Quiroga. </li>
-  <li><strong><a href="https://github.com/StefanoBalbo/Geocoding">Students research. (Ongoing) Project</a></strong> | UNC (National University of Córdoba), Data Science Program. </li>
+  <li><strong><a href="#">E Modeling for optimizing Media Mix Investment. (Ongoing) Project</a></strong> | Agencia Quiroga. </li>
+  <li><strong><a href="#">Students research. (Ongoing) Project</a></strong> | UNC (National University of Córdoba), Data Science Program. </li>
   <li><strong><a href="https://transparencia.unc.edu.ar/unc-en-cifras">Collaboration in the development of the Transparency Portal</a></strong> | UNC (National University of Córdoba), Data Science Program.</li>
   <li><strong><a href="https://github.com/StefanoBalbo/VAS_Optimization">DHS Survey Spatial & Cost Analysis. Research & Econometric Modeling</a></strong> | Reforma Consulting, for UNICEF & Genesis Analytics.</li>
   <li><strong><a href="#">Public Health Expenditure Review & Consultancy </a></strong> | Reforma Consulting, for the Government of Jamaica and The World Bank.</li>

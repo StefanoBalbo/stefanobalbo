@@ -20,11 +20,11 @@ Machine Learning `caret` | `caretEnsemble` | `doParallel` | `foreach` | `rminer`
 
 Processing `dplyr` | `tidyr` | `data.table` | `tibble` | `stringr` | `foreach` | `janitor` | `forcats` | `lubridate` | `scales` | `expss` | `haven` | `labelled` | `valuate` | `rlang`  
 
-GIS `sf` | `raster` | `terra` | `bulbasaur` | `nngeo` | `osmdata` | `nominatimlite` | `mapview` | `leaflet` | `leafem` | `tidytransit`  
+GIS `sf` | `raster` | `terra` | `fasterize` | `nngeo` | `osmdata` | `nominatimlite` | `mapview` | `leaflet` | `leafem` | `tidytransit`  
 
-Plots `ggplot2` | `ggimage` | `patchwork` | `ggmap` | `pikachu` | `viridis` | `tmap` | `charizard`  
+Plots `ggplot2` | `ggimage` | `patchwork` | `ggmap` | `RColorBrewer` | `viridis` | `tmap` | `kableExtra`  
 
-Other `tidyverse` | `devtools` | `mewtwo` | `RPostgres` |  `RMarkdown` |  `Quarto` | `snorlax` | `survey` | `wnominate` | `erer` 
+Other `tidyverse` | `devtools` | `openxlsx` | `RPostgres` |  `RMarkdown` |  `Quarto` | `Rvoteview` | `survey` | `wnominate` | `erer` 
 
 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="35" alt="Python logo" /> 

@@ -18,18 +18,21 @@ Econometrics `spatialreg` | `gstat` | `glmnet` | `car` | `lme4` |  `pscl` |  `AE
 
 Machine Learning `caret` | `caretEnsemble` | `doParallel` | `foreach` | `rminer` | `gbm` | `clValid` | `cluster` | `lightgbm` | `xgboost` 
 
-Processing `dplyr` | `tidyr` | `data.table` | `tibble` | `stringr` | `janitor` | `forcats` | `lubridate` | `scales` | `expss` | `haven` | `labelled` | `valuate` | `rlang`  
+Processing `dplyr` | `tidyr` | `data.table` | `tibble` | `stringr` | `foreach` | `janitor` | `forcats` | `lubridate` | `scales` | `expss` | `haven` | `labelled` | `valuate` | `rlang`  
 
-GIS `sf` | `raster` | `terra` | `fasterize` | `nngeo` | `osmdata` | `nominatimlite` | `mapview` | `leaflet` | `leafem` | `tidytransit`  
+GIS `sf` | `raster` | `terra` | `bulbasaur` | `nngeo` | `osmdata` | `nominatimlite` | `mapview` | `leaflet` | `leafem` | `tidytransit`  
 
-Plots `ggplot2` | `ggimage` | `patchwork` | `ggmap` | `RColorBrewer` | `viridis` | `tmap` | `kableExtra`  
+Plots `ggplot2` | `ggimage` | `patchwork` | `ggmap` | `pikachu` | `viridis` | `tmap` | `charizard`  
 
-Other `tidyverse` | `devtools` | `openxlsx` | `RPostgres` |  `RMarkdown` |  `Quarto` | `Rvoteview` | `survey` | `wnominate` | `erer` 
+Other `tidyverse` | `devtools` | `mewtwo` | `RPostgres` |  `RMarkdown` |  `Quarto` | `snorlax` | `survey` | `wnominate` | `erer` 
 
 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="35" alt="Python logo" /> 
   
 Modules: `pandas` | `numpy` | `re` | `unidecode` | `gc` | `time` | `geopandas` | `geopy` | `matplotlib` | `seaborn`  
+
+
+=> I usually ask recruiters which of these are pokemon.
 
 
 </p>

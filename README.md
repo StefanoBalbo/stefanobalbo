@@ -32,9 +32,6 @@ Other `tidyverse` | `devtools` | `openxlsx` | `RPostgres` |  `RMarkdown` |  `Qua
 Modules: `pandas` | `numpy` | `re` | `unidecode` | `gc` | `time` | `geopandas` | `geopy` | `matplotlib` | `seaborn`  
 
 
-=> I usually ask recruiters which of these are pokemon.
-
-
 </p>
 
 <h2 align="left">📊 Other Tools</h2>

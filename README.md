@@ -25,9 +25,10 @@ Plots `ggplot2` | `ggimage` | `patchwork` | `ggmap` | `RColorBrewer` | `viridis`
 Other `tidyverse` | `devtools` | `openxlsx` | `RPostgres` |  `RMarkdown` |  `Quarto` | `Rvoteview` | `survey` | `wnominate` | `erer` 
 
 
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="35" alt="Python logo" />
-  
-  Modules: `pandas` | `numpy` | `matplotlib` | `seaborn` | 
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="35" alt="Python logo" /> Modules: 
+
+`pandas` | `numpy` | `matplotlib` | `seaborn` | 
+
 </p>
 
 <h2 align="left">📊 Other Tools</h2>

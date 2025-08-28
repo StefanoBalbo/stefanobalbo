@@ -12,11 +12,16 @@
 <p align="left">
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" height="35" alt="R logo" /> Libraries: 
 
-  Econometrics `spatialreg` | `gstat` | `glmnet` | `car` | `lme4` | `survey` | `pscl` | `wnominate` | `erer` 
+Econometrics `spatialreg` | `gstat` | `glmnet` | `car` | `lme4` | `survey` | `pscl` | `wnominate` | `erer` 
+
 Machine Learning `caret` | `caretEnsemble` | `doParallel` | `foreach` | `rminer` | `gbm` | `clValid` | `cluster`  
+
 Processing `dplyr` | `tidyr` | `data.table` | `tibble` | `stringr` | `forcats` | `lubridate` | `scales` | `expss` | `haven` | `labelled` | `valuate` | `rlang`  
+
 GIS `sf` | `raster` | `terra` | `fasterize` | `nngeo` | `osmdata` | `nominatimlite` | `mapview` | `leaflet` | `leafem` | `tidytransit`  
+
 Plots `ggplot2` | `ggimage` | `patchwork` | `ggmap` | `RColorBrewer` | `viridis` | `tmap` | `kableExtra`  
+
 Other `tidyverse` | `devtools` | `openxlsx` | `RPostgres` |  `RMarkdown` |  `Quarto` | `Rvoteview` 
 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="35" alt="Python logo" />

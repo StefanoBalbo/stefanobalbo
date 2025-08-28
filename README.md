@@ -10,9 +10,7 @@
 <h2 align="left">🛠 Programming Languages</h2>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" height="35" alt="R logo" />
-
-Libraries: 
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" height="35" alt="R logo" /> Libraries: 
 Econometrics `spatialreg` | `gstat` | `glmnet` | `car` | `lme4` | `survey` | `pscl` | `wnominate` | `erer` 
 Machine Learning `caret` | `caretEnsemble` | `doParallel` | `foreach` | `rminer` | `gbm` | `clValid` | `cluster`  
 Processing `dplyr` | `tidyr` | `data.table` | `tibble` | `stringr` | `forcats` | `lubridate` | `scales` | `expss` | `haven` | `labelled` | `valuate` | `rlang`  

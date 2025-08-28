@@ -2,7 +2,7 @@
 <h2 align="left">🚀 About Me</h2>
 
 <p align="left">
-  Aspiring economist with experience in data science, GIS, econometrics and machine learning, applied to public policy, education, business and media. Currently engaged in BI analytics and research projects.
+  Economics student with experience in data science, GIS, econometrics and machine learning. Currently engaged in BI analytics and research projects.
 </p>
 
 ---

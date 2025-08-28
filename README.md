@@ -11,7 +11,12 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" height="35" alt="R logo" />
+
+  Libraries: `openxlsx` | `dplyr` | `ggplot2` | `mapview` | 
+  
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="35" alt="Python logo" />
+  
+  Modules: `pandas` | `numpy` | `matplotlib` | `seaborn` | 
 </p>
 
 <h2 align="left">📊 Other Tools</h2>

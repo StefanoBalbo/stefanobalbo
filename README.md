@@ -29,7 +29,7 @@ Other `tidyverse` | `devtools` | `openxlsx` | `RPostgres` |  `RMarkdown` |  `Qua
 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="35" alt="Python logo" /> 
   
-Modules: `pandas` | `numpy` | `re` | `unidecode` | `gc` | `time` | `geopandas` | `geopy` `Nominatim` | `matplotlib` | `seaborn` | `concurrent.futures` | `shapely.geometry` 
+Modules: `pandas` | `numpy` | `re` | `unidecode` | `sklearn` | `gc` | `time` | `geopandas` | `geopy` `Nominatim` | `matplotlib` | `seaborn` | `concurrent.futures` | `shapely.geometry` 
 
 
 </p>

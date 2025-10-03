@@ -10,6 +10,10 @@
 <h2 align="left">🛠 Programming Languages</h2>
 
 <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanobalbo&layout=compact&theme=calm_pink" alt="Top Languages" />
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" height="35" alt="R logo" /> 
   
 Libraries: 
@@ -44,13 +48,6 @@ Modules:
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="35" alt="Power BI logo" />
   <img src="https://qgis.github.io/qgis-uni-navigation/logo.svg" height="30" alt="qgis logo"  />
   <img src="https://superset.apache.org/img/superset-logo-horiz-dark.svg" height="35" alt="Superset logo" />
-</p>
-
-
-<h2 align="left">💻 Stats</h2>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanobalbo&layout=compact&theme=calm_pink" alt="Top Languages" />
 </p>
 
 ---

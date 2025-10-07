@@ -35,7 +35,7 @@ Other `tidyverse` | `devtools` | `openxlsx` | `RPostgres` |  `RMarkdown` |  `Qua
   
 Modules: 
 
-`pandas` | `numpy` | `re` | `unidecode` | `sklearn` | `gc` | `time` | `geopandas` | `geopy` `Nominatim` | `matplotlib` | `seaborn` | `concurrent.futures` | `shapely.geometry` | `datetime` 
+`pandas` | `numpy` | `re` | `unidecode` | `sklearn` | `xgboost` | `statsmodels` | `plotly` | `gc` | `time` | `geopandas` | `geopy` `Nominatim` | `matplotlib` | `seaborn` | `concurrent.futures` | `shapely.geometry` | `datetime` 
 
 
 </p>

@@ -12,10 +12,6 @@
 <h2 align="left">🛠 Programming Languages</h2>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanobalbo&layout=compact&theme=calm_pink" alt="Top Languages" />
-</p>
-
-<p align="left">
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" height="35" alt="R logo" /> 
   
 Libraries: 

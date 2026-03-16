@@ -4,7 +4,7 @@
 <h2 align="left">🚀 About Me</h2>
 
 <p align="left">
-  Economics student with experience in data science, GIS, econometrics and machine learning. Currently engaged in BI analytics, marketing, and research projects.
+  Economics student with experience in data science, econometrics and machine learning. Currently engaged in BI analytics, marketing science, and research projects.
 </p>
 
 ---
@@ -14,8 +14,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" height="35" alt="R logo" /> 
   
-Libraries: 
-
 Econometrics `spatialreg` | `gstat` | `glmnet` | `car` | `lme4` |  `pscl` |  `AER` |  `plm` |  `lmtest` 
 
 Machine Learning `caret` | `caretEnsemble` | `doParallel` | `foreach` | `rminer` | `gbm` | `clValid` | `cluster` | `lightgbm` | `xgboost` 
@@ -31,8 +29,6 @@ Other `tidyverse` | `devtools` | `openxlsx` | `RPostgres` |  `RMarkdown` |  `Qua
 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="35" alt="Python logo" /> 
   
-Modules: 
-
 `pandas` | `numpy` | `re` | `unidecode` | `sklearn` | `xgboost` | `statsmodels` | `plotly` | `gc` | `time` | `geopandas` | `geopy` | `Nominatim` | `matplotlib` | `seaborn` | `concurrent.futures` | `shapely.geometry` | `datetime` | `zepid` |  `scipy.stats`
 
 
@@ -48,6 +44,8 @@ Modules:
   <img src="https://superset.apache.org/img/superset-logo-horiz-dark.svg" height="35" alt="Superset logo" />
 </p>
 
+
+<img width="1440" height="970" alt="doing-learner" src="https://preview.redd.it/proof-it-is-never-to-late-to-start-v0-0tz459t85rd31.jpg?auto=webp&s=e274790801fdf644010e48a077655843e5b80c8e" />
 ---
 
 

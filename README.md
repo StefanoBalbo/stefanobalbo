@@ -45,7 +45,7 @@ Other `tidyverse` | `devtools` | `openxlsx` | `RPostgres` |  `RMarkdown` |  `Qua
 </p>
 
 
-<img width="1440" height="970" alt="doing-learner" src="https://preview.redd.it/proof-it-is-never-to-late-to-start-v0-0tz459t85rd31.jpg?auto=webp&s=e274790801fdf644010e48a077655843e5b80c8e" />
+<img width="720" height="485" alt="doing-learner" src="https://preview.redd.it/proof-it-is-never-to-late-to-start-v0-0tz459t85rd31.jpg?auto=webp&s=e274790801fdf644010e48a077655843e5b80c8e" />
 ---
 
 

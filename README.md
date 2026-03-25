@@ -14,22 +14,12 @@
 <p align="left">
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" height="35" alt="R logo" /> 
   
-Econometrics `spatialreg` | `gstat` | `glmnet` | `car` | `lme4` |  `pscl` |  `AER` |  `plm` |  `lmtest` 
-
-Machine Learning `caret` | `caretEnsemble` | `doParallel` | `foreach` | `rminer` | `gbm` | `clValid` | `cluster` | `lightgbm` | `xgboost` 
-
-Processing `dplyr` | `tidyr` | `data.table` | `tibble` | `stringr` | `foreach` | `janitor` | `forcats` | `lubridate` | `scales` | `expss` | `haven` | `labelled` | `r-valuate` | `rlang`  
-
-GIS `sf` | `raster` | `terra` | `fasterize` | `nngeo` | `osmdata` | `nominatimlite` | `mapview` | `leaflet` | `leafem` | `tidytransit`  
-
-Plots `ggplot2` | `ggimage` | `patchwork` | `ggmap` | `RColorBrewer` | `viridis` | `tmap` | `kableExtra`  
-
-Other `tidyverse` | `devtools` | `openxlsx` | `RPostgres` |  `RMarkdown` |  `Quarto` | `Rvoteview` | `survey` | `wnominate` | `erer` 
+`spatialreg` | `glmnet` | `lme4` |  `AER` |  `plm` |  `lmtest` | `caret` | `caretEnsemble` | `doParallel` | `foreach` | `rminer` | `gbm` | `cluster` | `lightgbm` | `xgboost` | `dplyr` | `tidyr` | `tidyverse` |`data.table` | `janitor` | `haven` | `r-valuate` | `rlang` | `sf` | `raster` | `terra` | `fasterize` | `nngeo` | `osmdata` | `nominatimlite` | `mapview` | `leaflet` | `ggplot2` | `patchwork` | `ggmap` | `tmap` | `devtools` | `RPostgres` |  `RMarkdown` |  `Quarto` | `Rvoteview` | `survey` | `wnominate` | `erer` 
 
 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="35" alt="Python logo" /> 
   
-`pandas` | `numpy` | `re` | `unidecode` | `sklearn` | `xgboost` | `statsmodels` | `plotly` | `gc` | `time` | `geopandas` | `geopy` | `Nominatim` | `matplotlib` | `seaborn` | `concurrent.futures` | `shapely.geometry` | `datetime` | `zepid` |  `scipy.stats`
+`pandas` | `numpy` | `re` | `unidecode` | `statsmodels` | `sklearn` | `xgboost` | `statsmodels` | `plotly` | `gc` | `time` | `geopandas` | `geopy` | `Nominatim` | `matplotlib` | `seaborn` | `concurrent.futures` | `shapely.geometry` | `datetime` | `zepid` |  `scipy.stats`
 
 
 </p>

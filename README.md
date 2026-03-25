@@ -4,7 +4,7 @@
 <h2 align="left">🚀 About Me</h2>
 
 <p align="left">
-  Economics student with experience in data science, econometrics and machine learning. Currently engaged in BI analytics, marketing science, and research projects.
+  Hi! I'm an Economics advanced student with experience in research data science, applied econometrics and statistical machine learning. I've built end-to-end data pipelines, created dashboards, and designed automated ETL workflows. I've also applied causal inference methods and machine learning algorithms to real world problems, from mass property appraisal models for real estate, to supporting impact evaluation of public policies in developing countries or optimizing marketing ROI. I'm deeply interested in topics related to statistical programming, applied econometrics, behavioral economics, and artificial intelligence.
 </p>
 
 ---
